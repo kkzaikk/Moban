@@ -1,0 +1,8 @@
+﻿#模板路径(相对项目的Assets目录)
+path0:ResourcesLib/Template
+
+#功能模块Prefab存放的路径(数组,用;分隔)(相对项目的Assets目录)
+path1:Resources/Prefab
+
+#保留属性配置表路径(相对项目的Assets目录)
+path2:Editor/TemplateEditor/Retainproperty

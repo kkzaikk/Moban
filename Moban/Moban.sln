@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B02FFDFF-0CC7-AD25-1C24-AF987AFEB5D2}") = "Moban", "Assembly-CSharp.csproj", "{F7312175-6693-61B0-B195-BC291A0CEE96}"
+EndProject
+Project("{B02FFDFF-0CC7-AD25-1C24-AF987AFEB5D2}") = "Moban", "Assembly-CSharp-Editor.csproj", "{1AA3BEAD-98E4-1DD7-92D5-B66B74127177}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7312175-6693-61B0-B195-BC291A0CEE96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7312175-6693-61B0-B195-BC291A0CEE96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7312175-6693-61B0-B195-BC291A0CEE96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7312175-6693-61B0-B195-BC291A0CEE96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AA3BEAD-98E4-1DD7-92D5-B66B74127177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AA3BEAD-98E4-1DD7-92D5-B66B74127177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AA3BEAD-98E4-1DD7-92D5-B66B74127177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AA3BEAD-98E4-1DD7-92D5-B66B74127177}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
